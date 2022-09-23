@@ -4,5 +4,6 @@ public class Cliente {
 
     private String nome;
     private Date dataNascimento;
+    private Integer altura;
 
 }
